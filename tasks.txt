@@ -1,0 +1,10 @@
+Dashboard
+==============================
+total widgets - 4
+charts 2
+weather - cpu usage - ram usage
+employee birthday list
+audit logs - 10 
+===============================
+User Form / User List
+================================
